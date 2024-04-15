@@ -4,4 +4,4 @@ If errors appear while using it, check if there is a patch or an update for CPyO
 
 # How to install
 Just install CircuitPython on your board, and replace the default code.py, with the code.py in this repo.
-Oh, and the libraries too. Install circup, and do this command: `circup install adafruit_display_text` with your board plugged in.
+Oh, and the libraries too. Install circup, and use `circup install` with your board plugged in to install these libraries: `adafruit_display_text`
